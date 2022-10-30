@@ -98,16 +98,16 @@
 								<article>
 									<header>
 										
-										<h2><a href="https://github.com/FabricioVeigaQueiroz/Projects/blob/main/XGBoost.ipynb">Data Cleaning and Analysis in SQL<br />
+										<h2><a href="#ADICIONAR LINK AQUI">Data Cleaning and Analysis in SQL<br />
 										</a></h2>
 									</header>
-									<a href="https://github.com/FabricioVeigaQueiroz/Projects/blob/main/XGBoost.ipynb" class="image fit"><img src="images/SQL Server.png" alt="" /></a>
+									<a href="#ADICIONAR LINK AQUI" class="image fit"><img src="images/SQL Server.png" alt="" /></a>
 									<p>In this SQL case I build the sale per client report to compare if total sales in a certain month overcame or not the maximum sales per client (there is a limit sales in the database).
 										It's a dataset loaded on Microsoft SQL Server Alura advanced course and it about a fictional brazilian company named "Suco de Frutas", which sells differents juice flavours in bottles and cans for many different customers.
 										
 									</p>
 									<ul class="actions special">
-										<li><a href="https://github.com/FabricioVeigaQueiroz/Projects/blob/main/XGBoost.ipynb" class="button">View Project</a></li>
+										<li><a href="#ADICIONAR LINK AQUI" class="button">View Project</a></li>
 									</ul>
 								</article>
 								
